@@ -1,0 +1,13 @@
+GET 
+- students
+- teachers
+- students/:studentId
+- teachers/teacherId
+- teacheres/:teacherId/students
+
+POST 
+- students
+
+PUT 
+- student/:studentId
+- teachers/:teacherId:students/:studentId
